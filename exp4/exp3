@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*
+#to reverse a given string using slicing Flowchart:
+"""
+Created on Mon Apr 20 05:56:46 2026
+
+@author: aryan gujale
+"""
+
+#to reverse a given string using slicing Flowchart:
+
+# Take input from the user
+string = input("Enter a string: ")
+
+# Reverse the string using slicing
+reversed_string = string[::-1]
+
+# Print the result
+print("Reversed string:", reversed_string)
