@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 20 06:02:51 2026
+
+@author: aryan gujale
+"""
+
+set1=set(map(int,input("Enter elements of first set (space-separated): ").split()))
+
+set2 = set(map(int, input("Enter elements of second set (space-separated): ").split()))
+
+union_set = set1 | set2 
+
+intersection_set = set1 & set2 
+
+print("Union of the sets:", union_set) 
+print("Intersection of the sets:", intersection_set)
