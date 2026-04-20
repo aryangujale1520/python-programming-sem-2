@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 20 05:24:39 2026
+
+@author: aryan gujale
+"""
+
+num1=int(input("Enter Number 1:"))
+num2=int(input("Enter Number 2:"))
+
+sum=num1+num2
+print("Addition=",sum)
