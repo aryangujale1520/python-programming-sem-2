@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 20 05:39:58 2026
+
+@author: aryan gujale
+
+speed=int(input("Enter Speed:"))
+
+if (speed>60):
+    print("You are overspeeding you got fine ")
+else: 
+    print("you got no fine")
